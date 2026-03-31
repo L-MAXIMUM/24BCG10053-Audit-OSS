@@ -107,8 +107,8 @@ sudo apt install git
 
 ### Step 1 — Clone this repository
 ```bash
-git clone https://github.com/aaryanmaurya10/oss-audit-24BAI10259.git
-cd oss-audit-24BAI10259
+git clone https://github.com/aaryanmaurya10/oss-audit-24BCG10053.git
+cd oss-audit-24BCG10053
 ```
 
 ### Step 2 — Make all scripts executable
